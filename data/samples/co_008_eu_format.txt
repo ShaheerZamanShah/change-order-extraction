@@ -1,0 +1,38 @@
+AVENANT AU CONTRAT / CONTRACT CHANGE ORDER
+Bilingual form, amounts in EUR
+
+Project name: Mertens Business Park Warehouse D
+Project no.: MBP-D-0097
+Contract number: EU-2023-00441
+Owner: Mertens Vastgoed BV
+Contractor: Hoffmann Bau GmbH
+Architect: Studio Verbeek
+
+Change order number: 002
+Date of issuance: 14.03.2024
+Date executed: 21.03.2024
+Currency: EUR
+Status: approved
+
+Description of change:
+Upgrade the sprinkler system in warehouse D from an ESFR K14 configuration to
+K17 heads with an enlarged riser, following the insurer's revised hazard
+classification received on 29.02.2024. The change is required by the insurer
+and the local authority having jurisdiction.
+
+Original contract sum: 4.850.000,00
+Net change by previously authorised change orders: 96.400,00
+Contract sum prior to this change order: 4.946.400,00
+Amount of this change order: 231.875,50
+New contract sum: 5.178.275,50
+
+The contract time will be extended by 18 calendar days.
+Original date of substantial completion: 30.09.2024
+New date of substantial completion: 18.10.2024
+
+Breakdown:
+  Riser enlargement and valve replacement     1  LS   84.500,00    84.500,00
+  ESFR K17 heads and drops                  412  EA      218,25    89.919,00
+  Hydraulic recalculation and permit          1  LS   12.400,00    12.400,00
+  Additional pipe hangers and seismic bracing 1  LS   45.056,50    45.056,50
+  Total this change order                                         231.875,50

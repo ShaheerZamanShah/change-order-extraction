@@ -1,0 +1,35 @@
+CHANGE ORDER
+
+Project: Fairhaven Civic Center Roof Replacement
+Project No: FCC-2024-02
+Owner: Town of Fairhaven
+Contractor: Summit Peak Roofing Inc
+Architect: Lindqvist Design Partners
+
+Change Order No: 002
+Date of Issuance: 06/18/2024
+Status: Pending
+
+DESCRIPTION OF CHANGE:
+Additional structural deck repair discovered after tear off of the existing
+membrane, including replacement of 1,240 square feet of deteriorated metal
+deck and associated welding, plus primer and new base sheet over the repaired
+area. Quantities are field measured and agreed with the architect.
+
+BREAKDOWN
+  Metal deck replacement, 20 ga      1,240 SF     14.75     18,290.00
+  Welding and fastening                  1 LS      3,620.00  3,620.00
+  Primer and base sheet over repair  1,240 SF       2.95      3,658.00
+  Total this Change Order                                    25,568.00
+
+CONTRACT SUMMARY
+Original Contract Sum                             $1,845,000.00
+Net change by previously authorized change orders    $42,100.00
+Contract Sum prior to this Change Order           $1,887,100.00
+Amount of this Change Order                          $25,568.00
+New Contract Sum                                  $1,915,668.00
+
+TIME
+The Contract Time will be increased by 5 calendar days.
+Original date of Substantial Completion: 09/13/2024
+New date of Substantial Completion: 09/25/2024

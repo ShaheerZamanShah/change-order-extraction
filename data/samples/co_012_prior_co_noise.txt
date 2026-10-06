@@ -1,0 +1,38 @@
+CHANGE ORDER REQUEST AND LOG SUMMARY
+
+Project Name: Alder Point Parking Structure
+Project No. 7781-APS
+Owner: Alder Point Development Co.
+Contractor: Granholm & Pierce Builders
+Architect: Tessier Urban Studio
+
+THIS REQUEST
+Change Order No. 015
+Date of Issuance: 2024-10-21
+Status: Submitted for owner approval
+Reason for change: Owner requested upgrade
+
+Description of change: Upgrade the level 3 and level 4 traffic coating from the
+base bid system to a heavy duty vehicular membrane across 46,000 square feet,
+at the owner's request following the durability review.
+
+Amount of this Change Order: $214,660.00
+The Contract Time will be increased by 9 calendar days.
+
+CHANGE ORDER LOG FOR REFERENCE ONLY
+  CO No.  Date        Description                      Amount        Status
+  011     2024-06-14  Stair pressurization revision     68,400.00    Approved
+  012     2024-07-02  Added bike room enclosure         31,255.00    Approved
+  013     2024-08-19  Deduct planter irrigation        (12,900.00)   Approved
+  014     2024-09-30  Elevator cab finish upgrade       44,180.00    Approved
+                      Net change by previous change orders  130,935.00
+
+CONTRACT STATUS
+Original Contract Sum: $38,900,000.00
+Net change by previously authorized change orders: $130,935.00
+Contract Sum prior to this Change Order: $39,030,935.00
+Amount of this Change Order: $214,660.00
+New Contract Sum including this Change Order: $39,245,595.00
+
+Original date of Substantial Completion: 2025-05-16
+New date of Substantial Completion: 2025-05-25

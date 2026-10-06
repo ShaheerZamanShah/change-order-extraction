@@ -1,0 +1,52 @@
+CHANGE ORDER
+AIA Document G701 - 2017
+
+PROJECT: Riverside Elementary School Addition
+PROJECT NO.: RES-2023-114
+CONTRACT NO.: C-88201
+OWNER: Marion County School District No. 4
+CONTRACTOR: Hollis Brothers Construction, LLC
+ARCHITECT: Keane Danforth Architects PC
+
+CHANGE ORDER NUMBER: 007
+DATE OF ISSUANCE: March 14, 2024
+STATUS: Approved
+
+THE CONTRACT IS CHANGED AS FOLLOWS:
+
+DESCRIPTION OF CHANGE:
+Furnish and install additional 4 inch fire protection main from the mechanical
+room to the new gymnasium wing, including two post indicator valves, thrust
+blocking, and hydrostatic testing. Work is required by the fire marshal review
+comments dated February 28, 2024.
+
+REASON FOR CHANGE: Code official requirement following plan review.
+
+ITEMIZED BREAKDOWN
+
+  Item  Description                              Qty   Unit   Unit Price      Amount
+  1     4 inch ductile iron fire main            260    LF        68.50    17,810.00
+  2     Post indicator valve assembly              2    EA     3,240.00     6,480.00
+  3     Thrust blocking and restraints             1    LS     1,150.00     1,150.00
+  4     Hydrostatic test and flush                 1    LS       880.00       880.00
+  5     Trench excavation and backfill           260    LF        22.00     5,720.00
+        Subtotal                                                          32,040.00
+        Overhead and profit at 10 percent                                  3,204.00
+        Payment and performance bond at 1.2 percent                          423.00
+        Total this Change Order                                           35,667.00
+
+THE ORIGINAL CONTRACT SUM WAS                                          8,742,000.00
+NET CHANGE BY PREVIOUSLY AUTHORIZED CHANGE ORDERS                        214,380.00
+THE CONTRACT SUM PRIOR TO THIS CHANGE ORDER WAS                        8,956,380.00
+THE CONTRACT SUM WILL BE INCREASED BY THIS CHANGE ORDER IN THE
+AMOUNT OF                                                                 35,667.00
+THE NEW CONTRACT SUM INCLUDING THIS CHANGE ORDER WILL BE               8,992,047.00
+
+THE CONTRACT TIME WILL BE INCREASED BY 11 CALENDAR DAYS.
+ORIGINAL DATE OF SUBSTANTIAL COMPLETION: August 16, 2024
+NEW DATE OF SUBSTANTIAL COMPLETION: August 27, 2024
+
+ARCHITECT                      CONTRACTOR                     OWNER
+Keane Danforth Architects PC   Hollis Brothers Construction   Marion County SD No. 4
+By: R. Danforth                By: T. Hollis                  By: L. Okafor
+Date Executed: March 19, 2024  Date: March 18, 2024           Date: March 19, 2024

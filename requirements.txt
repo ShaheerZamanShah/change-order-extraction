@@ -1,0 +1,22 @@
+# Core (required)
+pydantic>=2.5
+python-dateutil>=2.8
+
+# PDF text layer extraction (strongly recommended)
+pdfplumber>=0.11
+pypdf>=4.0
+
+# Sample PDF generation + tests
+reportlab>=4.0
+pytest>=8.0
+
+# Optional: HTTP service
+fastapi>=0.110
+uvicorn>=0.27
+python-multipart>=0.0.9
+
+# Optional: OCR fallback for scanned documents.
+# Also needs the Tesseract and Poppler binaries on PATH.
+# pytesseract>=0.3.10
+# pdf2image>=1.17
+# pillow>=10.0

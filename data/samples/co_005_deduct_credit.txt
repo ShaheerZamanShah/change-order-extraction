@@ -1,0 +1,40 @@
+DEDUCTIVE CHANGE ORDER
+
+Project: Cedar Mill Public Library Renovation
+Project Number: CMPL-2024-06
+Owner: City of Cedar Mill
+General Contractor: Ironwood Commercial Builders
+Architect/Engineer: Pell & Associates
+
+Change Order #: 004
+Date Issued: 2024-05-30
+Date Executed: 2024-06-06
+Status: Executed
+
+DESCRIPTION OF CHANGE
+Delete the specified terrazzo flooring in the main reading room and the
+adjacent corridor, approximately 4,100 square feet, and substitute the
+owner furnished luxury vinyl tile. This is a value engineering deduction
+accepted by the owner to offset earlier overruns. Scope deduction only,
+no additional work is added by this change.
+
+The Contract Sum will be decreased by this Change Order in the amount of
+$62,480.00.
+
+Original Contract Sum ......................... $3,975,000.00
+Net change by previously authorized change orders ... $117,250.00
+Contract Sum prior to this Change Order ....... $4,092,250.00
+Amount of this Change Order ................... ($62,480.00)
+New Contract Sum .............................. $4,029,770.00
+
+There is no change to the Contract Time.
+Original date of Substantial Completion: 2024-11-22
+
+CREDIT BREAKDOWN
+  Deduct terrazzo flooring, material and labor    4,100 SF    13.40    (54,940.00)
+  Deduct terrazzo base and transitions              320 LF    11.00     (3,520.00)
+  Deduct sealing and curing allowance                  1 LS  4,020.00   (4,020.00)
+  Total credit to Owner                                                (62,480.00)
+
+Signed by W. Ireland for Ironwood Commercial Builders on 2024-06-05
+Signed by A. Castellanos for the City of Cedar Mill on 2024-06-06

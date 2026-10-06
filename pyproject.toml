@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "coextract"
+version = "0.1.0"
+description = "Extract validated, confidence-scored structured fields from messy construction change orders"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic>=2.5",
+    "python-dateutil>=2.8",
+]
+
+[project.optional-dependencies]
+pdf = ["pdfplumber>=0.11", "pypdf>=4.0"]
+ocr = ["pytesseract>=0.3.10", "pdf2image>=1.17", "pillow>=10.0"]
+api = ["fastapi>=0.110", "uvicorn>=0.27", "python-multipart>=0.0.9"]
+samples = ["reportlab>=4.0"]
+dev = ["pytest>=8.0", "rapidfuzz>=3.6"]
+
+[project.scripts]
+coextract = "coextract.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

@@ -1,0 +1,33 @@
+FIELD ORDER / NO COST CHANGE ORDER
+
+Field Order No. 031
+Project Name: Stonebridge Apartments Building C
+Job Number: SBA-C-5509
+Owner: Stonebridge Residential Partners
+Contractor: Ladd & Keyes General Contractors
+Date: 08 Aug 2024
+
+SUBJECT: Time extension for severe weather, no cost impact
+
+DESCRIPTION OF CHANGE:
+Grant an extension of time for the period 22 July 2024 through 4 August 2024
+during which site work was suspended due to sustained rainfall exceeding the
+baseline rain days carried in the schedule. No additional compensation is
+requested or granted for this change.
+
+Reason for change: Weather delay, unusually severe rainfall.
+
+COST
+There is no cost impact associated with this change order.
+Amount of this Change Order: $0.00
+Original Contract Sum: $9,120,000.00
+Net change by previous change orders: $0.00
+New Contract Sum: $9,120,000.00
+
+TIME
+The Contract Time will be increased by 14 calendar days.
+Original completion date: 15 Dec 2024
+Revised completion date: 29 Dec 2024
+
+Status: Approved
+Approved by: J. Keyes (Contractor) and M. Soh (Owner) on 12 Aug 2024

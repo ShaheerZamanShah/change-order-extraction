@@ -1,0 +1,44 @@
+WESTBROOK CONSTRUCTION GROUP
+CONTRACT CHANGE AUTHORIZATION
+
+Job Name | Harborview Medical Office Building Phase 2
+Job No. | HVM-2201
+Contract # | WCG-2022-0417
+Client | Harborview Health Partners LP
+Subcontractor | Delancey Glass & Glazing Co.
+CCA No. | 019
+Dated | 2024-09-05
+Reason | Design revision per Bulletin 14
+
+SCOPE
+Revise the curtain wall at the south elevation from the specified 2 inch
+system to a 2.5 inch thermally broken system, including revised anchors and
+head receptors, per architect's Bulletin 14 dated 2024-08-19.
+
+COST BREAKDOWN
+Item | Description | Qty | Unit | Unit Price | Amount
+1 | Curtain wall framing, 2.5 in thermally broken | 1,840 | SF | 41.25 | 75,900.00
+2 | Insulated glazing units, revised thickness | 1,840 | SF | 28.60 | 52,624.00
+3 | Revised anchors and head receptors | 96 | EA | 142.00 | 13,632.00
+4 | Engineering and shop drawing revision | 1 | LS | 6,800.00 | 6,800.00
+5 | Crane and hoisting, additional 3 days | 3 | DAY | 2,250.00 | 6,750.00
+6 | Credit for deleted 2 inch system material | 1 | LS | -18,400.00 | -18,400.00
+ | Subtotal | | | | 137,306.00
+ | Overhead and profit 8% | | | | 10,984.48
+ | Builders risk insurance 0.45% | | | | 617.88
+ | GRAND TOTAL | | | | 148,908.36
+
+CONTRACT SUMMARY
+Original Contract Amount: $21,400,000.00
+Previously Approved Change Orders: $1,284,355.12
+Current Contract Value: $22,684,355.12
+This Change Order Amount: $148,908.36
+Revised Contract Amount: $22,833,263.48
+
+TIME
+Schedule impact: 7 calendar days
+Contract completion date was 2025-03-28 and becomes 2025-04-04.
+
+APPROVALS
+Prepared by R. Okonkwo, Westbrook Construction Group, 2024-09-05
+Approved by M. Vance, Harborview Health Partners LP, 2024-09-11
