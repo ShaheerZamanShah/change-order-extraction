@@ -33,6 +33,8 @@ coextract fields
 coextract config
 ```
 
+`coextract extract` exits 0 when validation found no errors and 2 when it did, so it drops straight into a shell pipeline. `coextract batch` always exits 0 and reports per document.
+
 From Python:
 
 ```python
